@@ -9,7 +9,7 @@ export function Hero() {
           <span className="eyebrow">Premium Renovation & Craftsmanship</span>
           <h1>Home improvements finished with precision, pride, and lasting quality.</h1>
           <p>
-            Jackfin Craftsman delivers clean, dependable renovation work for homeowners who
+            Jackfinn Craftsman delivers clean, dependable renovation work for homeowners who
             want honest service, refined details, and results that feel built to last.
           </p>
           <div className="hero-actions">
@@ -23,9 +23,9 @@ export function Hero() {
         </div>
 
         <div className="hero-card">
-          <img src={logo} alt="Jackfin Craftsman logo" className="hero-logo" />
+          <img src={logo} alt="Jackfinn Craftsman logo" className="hero-logo" />
           <div className="hero-card-copy">
-            <h2>Jackfin Craftsman</h2>
+            <h2>Jackfinn Craftsman</h2>
             <p>
               Renovation, finish work, and detail-oriented project care tailored for homes
               that deserve a polished, professional result.

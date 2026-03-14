@@ -7,9 +7,9 @@ export function Footer() {
     <footer className="site-footer">
       <div className="container footer-grid">
         <div className="footer-brand">
-          <img src={logo} alt="Jackfin Craftsman logo" className="footer-logo" />
+          <img src={logo} alt="Jackfinn Craftsman logo" className="footer-logo" />
           <div>
-            <h2>Jackfin Craftsman</h2>
+            <h2>Jackfinn Craftsman</h2>
             <p>
               Skilled renovation and finish work shaped by careful execution, dependable
               communication, and pride in the final result.
@@ -51,7 +51,7 @@ export function Footer() {
       </div>
 
       <div className="container footer-bottom">
-        <p>Copyright {new Date().getFullYear()} Jackfin Craftsman. All rights reserved.</p>
+        <p>Copyright {new Date().getFullYear()} Jackfinn Craftsman. All rights reserved.</p>
       </div>
     </footer>
   );

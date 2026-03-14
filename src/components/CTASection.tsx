@@ -7,7 +7,7 @@ interface CTASectionProps {
 
 export function CTASection({
   title = 'Ready to talk about your home project?',
-  description = 'Reach out to discuss your renovation goals, ask questions, and get the conversation started with Jackfin Craftsman.',
+  description = 'Reach out to discuss your renovation goals, ask questions, and get the conversation started with Jackfinn Craftsman.',
 }: CTASectionProps) {
   return (
     <section className="section">
@@ -21,7 +21,7 @@ export function CTASection({
 
           <div className="cta-actions">
             <Link className="button button-primary" to="/contact">
-              Contact Jackfin Craftsman
+              Contact Jackfinn Craftsman
             </Link>
             <Link className="button button-secondary" to="/work-shown">
               Explore Recent Work

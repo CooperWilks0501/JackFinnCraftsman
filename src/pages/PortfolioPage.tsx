@@ -24,7 +24,7 @@ export function PortfolioPage() {
           <SectionHeading
             eyebrow="Portfolio"
             title="Work shown with the clean presentation it deserves"
-            description="This gallery highlights real project photos from the Jackfin Craftsman photo library. Tap or click any image for a larger view and a more immersive look at the finished details."
+            description="This gallery highlights real project photos from the Jackfinn Craftsman photo library. Tap or click any image for a larger view and a more immersive look at the finished details."
             centered
           />
         </div>

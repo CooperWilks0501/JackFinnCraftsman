@@ -5,10 +5,10 @@ export function IntroSection() {
     <section className="section section-soft">
       <div className="container intro-grid">
         <div>
-          <span className="eyebrow">About Jackfin Craftsman</span>
+          <span className="eyebrow">About Jackfinn Craftsman</span>
           <h2>Reliable renovation work with a steady hand for the details.</h2>
           <p className="lead">
-            Jackfin Craftsman is built around the kind of work homeowners remember for the
+            Jackfinn Craftsman is built around the kind of work homeowners remember for the
             right reasons: careful preparation, clean finishes, respectful communication,
             and spaces that feel noticeably better once the job is complete.
           </p>

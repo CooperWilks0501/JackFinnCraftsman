@@ -1,6 +1,6 @@
-# Jackfin Craftsman
+# Jackfinn Craftsman
 
-React + TypeScript website for Jackfin Craftsman, built with Vite.
+React + TypeScript website for Jackfinn Craftsman, built with Vite.
 
 ## Run locally
 

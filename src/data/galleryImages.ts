@@ -14,7 +14,7 @@ export const galleryImages: GalleryImage[] = Object.entries(galleryModules)
   .map(([, src], index) => ({
     src,
     title: `Project ${index + 1}`,
-    alt: `Completed renovation work from Jackfin Craftsman project ${index + 1}`,
+    alt: `Completed renovation work from Jackfinn Craftsman project ${index + 1}`,
   }));
 
 export const featuredGalleryImages = galleryImages.slice(0, 3);

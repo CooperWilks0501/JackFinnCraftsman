@@ -9,7 +9,7 @@ export interface FeatureItem {
 }
 
 export const businessInfo = {
-  name: 'Jackfin Craftsman',
+  name: 'Jackfinn Craftsman',
   email: 'Quinnwilliams177@gmail.com',
   phone: '8436945221',
   phoneDisplay: '(843) 694-5221',

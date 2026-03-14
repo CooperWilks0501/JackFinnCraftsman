@@ -21,10 +21,10 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container nav-shell">
-        <Link className="brand-mark" to="/" aria-label="Jackfin Craftsman Home">
-          <img src={logo} alt="Jackfin Craftsman logo" className="brand-logo" />
+        <Link className="brand-mark" to="/" aria-label="Jackfinn Craftsman Home">
+          <img src={logo} alt="Jackfinn Craftsman logo" className="brand-logo" />
           <div>
-            <span className="brand-name">Jackfin Craftsman</span>
+            <span className="brand-name">Jackfinn Craftsman</span>
             <span className="brand-tag">Home Renovation & Fine Finish Work</span>
           </div>
         </Link>
